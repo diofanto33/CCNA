@@ -15,7 +15,8 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "README"
@@ -172,12 +173,14 @@
   },
   "active": "9ac085f8106513ee",
   "lastOpenFiles": [
+    "200-301-CCNA-v1.1/01.md",
     "README.md",
+    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components.md",
+    "01.md",
+    "Labs/004.md",
     "Labs/001.002.003.md",
     "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.12 - Virtualization fundamentals.md",
-    "Labs/004.md",
     "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.3 - Physical interfaces and cabling types.md",
-    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components.md",
     "Labs",
     "200-301-CCNA-v1.1/07 - Labs",
     "200-301-CCNA-v1.1/06 - Automation and Programmability (10%)/6.7 - JSON data.md",
@@ -200,8 +203,6 @@
     "200-301-CCNA-v1.1/05 - Security Fundamentals (15%)/5.1 - Security concepts.md",
     "200-301-CCNA-v1.1/05 - Security Fundamentals (15%)",
     "200-301-CCNA-v1.1/04 - IP Services (10%)/4.9 - TFTP and FTP.md",
-    "200-301-CCNA-v1.1/04 - IP Services (10%)/4.8 - SSH remote access.md",
-    "200-301-CCNA-v1.1/04 - IP Services (10%)/4.7 - QoS.md",
     "200-301-CCNA-v1.1/04 - IP Services (10%)",
     "200-301-CCNA-v1.1/03 - IP Connectivity (25%)",
     "200-301-CCNA-v1.1/02 - Network Access (20%)",
