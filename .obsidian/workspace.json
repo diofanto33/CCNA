@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1.1 - Role and function of network components"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "9ac085f8106513ee",
   "lastOpenFiles": [
-    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.6 - IPv4 addressing and subnetting.md",
     "README.md",
+    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.6 - IPv4 addressing and subnetting.md",
     "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.5 - TCP vs UDP.md",
     "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.4 - Interface and cable issues.md",
     "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.3 - Physical interfaces and cabling types.md",
