@@ -7,7 +7,7 @@ Exam Description: CCNA Exam v1.1 (CCNA 200-301) is a 120-minute exam associated 
 The following topics are general guidelines for the content likely to be included on the exam. However, other related topics may also appear on any specific delivery of the exam. To better reflect the contents of the exam and for clarity purposes, the guidelines below may change at any time without notice
 
 #### 01 - Network Fundamentals (20%)
-* [[1.1 - Role and function of network components]]
+* [1.1 - Role and function of network components](/200-301-CCNA-v1.1/01%20-%20Network%20Fundamentals%20(20%25)/1.1%20-%20Role%20and%20function%20of%20network%20components) 
 * [[1.2 - Network topology architectures]]
 * [[1.3 - Physical interfaces and cabling types]]
 * [[1.4 - Interface and cable issues]]
