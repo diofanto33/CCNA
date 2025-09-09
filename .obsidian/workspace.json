@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.3 - Physical interfaces and cabling types.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1.3 - Physical interfaces and cabling types"
+              "title": "README"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.3 - Physical interfaces and cabling types.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 1.3 - Physical interfaces and cabling types"
+              "title": "Enlaces entrantes de README"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.3 - Physical interfaces and cabling types.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 1.3 - Physical interfaces and cabling types"
+              "title": "Enlaces salientes de README"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.3 - Physical interfaces and cabling types.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 1.3 - Physical interfaces and cabling types"
+              "title": "Esquema de README"
             }
           }
         ]
@@ -173,16 +173,16 @@
   },
   "active": "9ac085f8106513ee",
   "lastOpenFiles": [
+    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.3 - Physical interfaces and cabling types.md",
     "README.md",
-    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components.md",
     "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.2 - Network topology architectures.md",
+    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components.md",
     "Labs/004.md",
     "200-301-CCNA-v1.1/01 - Network Fundamentals (20%).md",
     "200-301-CCNA-v1.1/01.md",
     "01.md",
     "Labs/001.002.003.md",
     "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.12 - Virtualization fundamentals.md",
-    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.3 - Physical interfaces and cabling types.md",
     "Labs",
     "200-301-CCNA-v1.1/07 - Labs",
     "200-301-CCNA-v1.1/06 - Automation and Programmability (10%)/6.7 - JSON data.md",
