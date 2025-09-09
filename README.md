@@ -10,8 +10,8 @@ The following topics are general guidelines for the content likely to be include
 * [1.1 - Role and function of network components](/200-301-CCNA-v1.1/01%20-%20Network%20Fundamentals%20(20%25)/1.1%20-%20Role%20and%20function%20of%20network%20components.md)
 * [1.2 - Network topology architectures](/200-301-CCNA-v1.1/01%20-%20Network%20Fundamentals%20(20%25)/1.2%20-%20Network%20topology%20architectures.md) 
 * [1.3 - Physical interfaces and cabling types](/200-301-CCNA-v1.1/01%20-%20Network%20Fundamentals%20(20%25)/1.3%20-%20Physical%20interfaces%20and%20cabling%20types.md) 
-* [[1.4 - Interface and cable issues]]
-* [[1.5 - TCP vs UDP]]
+* [1.4 - Interface and cable issues](/200-301-CCNA-v1.1/01%20-%20Network%20Fundamentals%20(20%25)/1.4%20-%20Interface%20and%20cable%20issues.md)
+* [1.5 - TCP vs UDP](/200-301-CCNA-v1.1/01%20-%20Network%20Fundamentals%20(20%25)/1.5%20-%20TCP%20vs%20UDP.md) 
 * [[1.6 - IPv4 addressing and subnetting]]
 * [[1.7 - Private IPv4 addressing]]
 * [[1.8 - IPv6 addressing and prefix]]
@@ -68,4 +68,4 @@ The following topics are general guidelines for the content likely to be include
 
 
 
-(/200-301-CCNA-v1.1/01%20-%20Network%20Fundamentals%20(20%25)/1.3%20-%20Physical%20interfaces%20and%20cabling%20types)
+(/200-301-CCNA-v1.1/01%20-%20Network%20Fundamentals%20(20%25)/1.6%20-%20IPv4%20addressing%20and%20subnetting.md)
