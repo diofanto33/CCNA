@@ -1,2 +1,2 @@
 En las conexiones con cables, el medio puede ser cobre, que transmite señales eléctricas,
-o fibra óptica, que transmite señales de luz.
+o fibra óptica, que transmite señales de luz. En las conexiones inalámbricas, el medio es la atmósfera de la tierra o espacio y las señales son microondas. En un viaje típico a través de Internet, un mensaje puede viajar en una variedad de medios.
