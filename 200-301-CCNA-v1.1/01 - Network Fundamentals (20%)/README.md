@@ -26,6 +26,27 @@ protocolos XMPP, TCP e IP son importantes conjuntos de reglas que permiten que s
 
  Debido a que Internet evoluciona, al igual que las redes en general, descubrimos que existen cuatro características básicas que la arquitectura subyacente necesita para cumplir con las expectativas de los usuarios: tolerancia a fallas, escalabilidad, calidad del servicio y seguridad.
 
-#### Tolerancia a fallas 
-La expectativa de que Internet está siempre disponible para millones de usuarios que confían en ella requiere de una arquitectura de red diseñada y creada con tolerancia a fallas. Una red tolerante a fallas es la que limita el impacto de una falla del software o hardware y puede recuperarse rápidamente cuando se produce dicha falla. Estas redes dependen de enlaces o rutas redundantes entre el origen y el destino del mensaje. Si un enlace o ruta falla, los procesos garantizan que los mensajes pueden enrutarse en forma instantánea en un enlace diferente transparente para los usuarios en cada extremo. Tanto las infraestructuras físicas como los procesos lógicos que direccionan los mensajes a través de la red están diseñados para adaptarse a esta redundancia. Ésta es la premisa básica de la arquitectura de redes actuales.
+### Tolerancia a fallas 
+Una red tolerante a fallas está diseñada para **limitar el impacto de fallos de hardware o software** y **recuperarse rápidamente** cuando ocurren.
+#### Conceptos clave:
+- **Redundancia:** existen enlaces o rutas alternativas entre el origen y el destino.
+- **Enrutamiento automático:** si un enlace falla, el tráfico se redirige por otro camino de manera **transparente al usuario**.
+- **Arquitectura robusta:** tanto la infraestructura física como los procesos lógicos se planifican para aprovechar la redundancia.
+- **Objetivo:** garantizar que la red permanezca disponible y funcional, cumpliendo con los estándares de alta disponibilidad actuales
 
+### **Escalabilidad en redes**
+La **escalabilidad** se refiere a la capacidad de una red para **crecer o adaptarse** a un aumento de usuarios, dispositivos o tráfico, **sin afectar el rendimiento**.
+#### Conceptos clave:
+- **Crecimiento controlado:** la red debe poder expandirse agregando más dispositivos, enlaces o servicios.
+    
+- **Flexibilidad:** la infraestructura y los protocolos deben soportar cambios sin interrupciones importantes.
+    
+- **Ejemplos de implementación:**
+    
+    - Añadir **routers y switches** adicionales para segmentar tráfico.
+        
+    - Usar **VLANs** para dividir grandes redes en subredes manejables.
+        
+    - Protocolos de enrutamiento dinámico (**OSPF, EIGRP, BGP**) que adaptan rutas automáticamente.
+        
+- **Objetivo:** mantener **eficiencia, rendimiento y disponibilidad** incluso cuando la red crece.
