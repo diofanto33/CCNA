@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/README.md",
+                "file": "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1.1 - Role and function of network components"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5,
-    "collapsed": true
+    "width": 418.5
   },
   "right": {
     "id": "986b85859ef1ab0c",
@@ -185,9 +184,9 @@
   },
   "active": "9ac085f8106513ee",
   "lastOpenFiles": [
-    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components.md",
-    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/README.md",
     "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.2 - Network topology architectures.md",
+    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/README.md",
+    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components.md",
     "200-301-CCNA-v1.1/02 - Network Access (20%)/2.1 - VLANs.md",
     "README.md",
     "Labs/001.002.003.md",
