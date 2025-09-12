@@ -13,4 +13,5 @@ de enrutamiento que garantizan que nuestros mensajes sean entregados a los desti
 | World Wide Web (www) | HTTP                                                                                           (Hypertext Transport Protocol) |
 | E-mail               | SMTP (Simple Mail Transport Protocol)                                         POP (Post Office Protocol)                      |
 | Mensaje Instantaneo  | XMPP  OSCAR                                                                                                                   |
-| Telefonia IP         | SIP (Session )                                                                                                                |
+| Telefonia IP         | SIP (Session Initiation Protocol)                                                                                             |
+
