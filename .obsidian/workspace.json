@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components/1.1a Routers.md",
+                "file": "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components/1.1.a Routers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1a Routers"
+              "title": "1.1.a Routers"
             }
           },
           {
@@ -42,16 +42,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components/1.1b Layer 2 and Layer 3 switches.md",
+                "file": "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components/1.1.b Layer 2 and Layer 3 switches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1b Layer 2 and Layer 3 switches"
+              "title": "1.1.b Layer 2 and Layer 3 switches"
+            }
+          },
+          {
+            "id": "5baba1f1414f6990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 - Role and function of network components"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,11 +225,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06b94499b8bc6507",
+  "active": "5baba1f1414f6990",
   "lastOpenFiles": [
+    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components/1.1.e Controllers.md",
     "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components.md",
-    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components/1.1a Routers.md",
-    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components/1.1b Layer 2 and Layer 3 switches.md",
+    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components/1.1.d Access points.md",
+    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components/1.1.c Next-generation firewalls and IPS.md",
+    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components/1.1.h PoE",
+    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components/1.1.g Servers",
+    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components/1.1.f Endpoints.md",
+    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components/1.1.d Access points",
+    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components/1.1.b Layer 2 and Layer 3 switches.md",
+    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components/1.1.a Routers.md",
     "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components",
     "Sin nombre",
     "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.2 - Network topology architectures.md",
@@ -238,16 +259,8 @@
     "200-301-CCNA-v1.1/06 - Automation and Programmability (10%)/6.6 - Ansible and Terraform.md",
     "200-301-CCNA-v1.1/06 - Automation and Programmability (10%)/6.5 - REST APIs.md",
     "200-301-CCNA-v1.1/06 - Automation and Programmability (10%)/6.4 - AI and ML in networking.md",
-    "200-301-CCNA-v1.1/06 - Automation and Programmability (10%)/6.3 - Software defined architecture.md",
-    "200-301-CCNA-v1.1/06 - Automation and Programmability (10%)/6.2 - Traditional vs controller-based networks.md",
-    "200-301-CCNA-v1.1/06 - Automation and Programmability (10%)/6.1 - Automation impacts.md",
     "200-301-CCNA-v1.1/06 - Automation and Programmability (10%)",
-    "200-301-CCNA-v1.1/05 - Security Fundamentals (15%)/5.9 - Wireless security protocols.md",
-    "200-301-CCNA-v1.1/05 - Security Fundamentals (15%)/5.8 - AAA.md",
     "200-301-CCNA-v1.1/05 - Security Fundamentals (15%)",
-    "200-301-CCNA-v1.1/04 - IP Services (10%)",
-    "200-301-CCNA-v1.1/03 - IP Connectivity (25%)",
-    "200-301-CCNA-v1.1/02 - Network Access (20%)",
-    "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)"
+    "200-301-CCNA-v1.1/04 - IP Services (10%)"
   ]
 }
