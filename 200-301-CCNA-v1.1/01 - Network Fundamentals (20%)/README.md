@@ -15,3 +15,9 @@ de enrutamiento que garantizan que nuestros mensajes sean entregados a los desti
 | Mensaje Instantaneo  | XMPP  OSCAR                                                                                                                   |
 | Telefonia IP         | SIP (Session Initiation Protocol)                                                                                             |
 
+#### Que es un Servicio? 
+Los servicios de red son programas de computación que respaldan la red humana. Distribuidos en toda la red, estos servicios facilitan las herramientas de comunicación en línea como e‐mails, foros de discusión/boletines, salas de chat y mensajería instantánea. Por ejemplo: en el caso un servicio de mensajería instantánea proporcionado por dispositivos en la nube, debe ser accesible tanto para el emisor como para el receptor.
+
+#### Que es una Regla? 
+Aspectos importantes de las redes que **no son dispositivos ni medios**, son reglas o protocolos. Estas reglas son las normas o protocolos que especifican la manera en que se envían los mensajes, cómo se direccionan a través de la red y cómo se interpretan en los dispositivos de destino. Por ejemplo: en el caso de la mensajería instantánea Jabber, los
+protocolos XMPP, TCP e IP son importantes conjuntos de reglas que permiten que se realice la comunicación.
