@@ -21,3 +21,7 @@ Los servicios de red son programas de computación que respaldan la red humana. 
 #### Que es una Regla? 
 Aspectos importantes de las redes que **no son dispositivos ni medios**, son reglas o protocolos. Estas reglas son las normas o protocolos que especifican la manera en que se envían los mensajes, cómo se direccionan a través de la red y cómo se interpretan en los dispositivos de destino. Por ejemplo: en el caso de la mensajería instantánea Jabber, los
 protocolos XMPP, TCP e IP son importantes conjuntos de reglas que permiten que se realice la comunicación.
+
+--- 
+
+ Debido a que Internet evoluciona, al igual que las redes en general, descubrimos que existen cuatro características básicas que la arquitectura subyacente necesita para cumplir con las expectativas de los usuarios: tolerancia a fallas, escalabilidad, calidad del servicio y seguridad.
