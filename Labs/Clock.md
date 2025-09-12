@@ -14,4 +14,3 @@ Establece la fecha y hora donde:
 * **DD**: dia en numero. 
 * **MMM**: mes en ingles, abreviado de 3 letras.
 * **AAAA**: año en numero. 
-
