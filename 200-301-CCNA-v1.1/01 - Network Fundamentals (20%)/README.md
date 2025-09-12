@@ -23,7 +23,7 @@ Aspectos importantes de las redes que **no son dispositivos ni medios**, son reg
 protocolos XMPP, TCP e IP son importantes conjuntos de reglas que permiten que se realice la comunicación.
 
 --- 
-
+## Arquitectura
  Debido a que Internet evoluciona, al igual que las redes en general, descubrimos que existen cuatro características básicas que la arquitectura subyacente necesita para cumplir con las expectativas de los usuarios: tolerancia a fallas, escalabilidad, calidad del servicio y seguridad.
 
 ### Tolerancia a fallas 
@@ -34,19 +34,14 @@ Una red tolerante a fallas está diseñada para **limitar el impacto de fallos d
 - **Arquitectura robusta:** tanto la infraestructura física como los procesos lógicos se planifican para aprovechar la redundancia.
 - **Objetivo:** garantizar que la red permanezca disponible y funcional, cumpliendo con los estándares de alta disponibilidad actuales
 
-### **Escalabilidad en redes**
+### Escalabilidad en redes
 La **escalabilidad** se refiere a la capacidad de una red para **crecer o adaptarse** a un aumento de usuarios, dispositivos o tráfico, **sin afectar el rendimiento**.
 #### Conceptos clave:
 - **Crecimiento controlado:** la red debe poder expandirse agregando más dispositivos, enlaces o servicios.
-    
 - **Flexibilidad:** la infraestructura y los protocolos deben soportar cambios sin interrupciones importantes.
-    
 - **Ejemplos de implementación:**
-    
     - Añadir **routers y switches** adicionales para segmentar tráfico.
-        
     - Usar **VLANs** para dividir grandes redes en subredes manejables.
-        
     - Protocolos de enrutamiento dinámico (**OSPF, EIGRP, BGP**) que adaptan rutas automáticamente.
-        
 - **Objetivo:** mantener **eficiencia, rendimiento y disponibilidad** incluso cuando la red crece.
+
