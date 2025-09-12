@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 418.5,
+    "collapsed": true
   },
   "right": {
     "id": "986b85859ef1ab0c",
@@ -182,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "201d1d4b701cc1dc",
+  "active": "9ac085f8106513ee",
   "lastOpenFiles": [
     "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/1.1 - Role and function of network components.md",
     "200-301-CCNA-v1.1/01 - Network Fundamentals (20%)/README.md",
